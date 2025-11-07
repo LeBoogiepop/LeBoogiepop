@@ -9,12 +9,10 @@
 ## 🚀 About Me
 
 💼 Currently working on several projects:
-- *Maxime City* → a personal interactive city website (Omori + Undertale vibes)
-- Web showcase for **NERYTEC Consulting** (Next.js / Tailwind / animation focused)
+- **Twinstack Studio** → my web portfolio showcasing all my projects (design, web, UX experiments)
 
 🌱 Learning:
 - 日本語 (JLPT N4-ish)
-- Русский (just started)
 - UX design for indie games
 
 📍 Based in France (previously Korea 🇰🇷, Japan 🇯🇵)
@@ -49,5 +47,5 @@
 
 ## 📫 Connect with me
 
-[LinkedIn](<your-link>) • [GitHub](https://github.com/<your-username>)
+[LinkedIn](https://www.linkedin.com/in/maxime-lacombe-356645222/) • [GitHub](https://github.com/LeBoogiepop)
 
