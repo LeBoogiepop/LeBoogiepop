@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hey, I'm Maxime 👋
 
-<!--
-**LeBoogiepop/LeBoogiepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎧 Music lover | 🎮 Indie Game Enjoyer | ✨ Creative Tech Explorer  
+🧠 Engineering student (final year) currently diving into:  
+**AR for live music • UX/UI design for games • Web experience & animations**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+💼 Currently working on several projects:
+- *Maxime City* → a personal interactive city website (Omori + Undertale vibes)
+- Web showcase for **NERYTEC Consulting** (Next.js / Tailwind / animation focused)
+
+🌱 Learning:
+- 日本語 (JLPT N4-ish)
+- Русский (just started)
+- UX design for indie games
+
+📍 Based in France (previously Korea 🇰🇷, Japan 🇯🇵)
+
+---
+
+## 🛠️ Tech & Tools
+
+**Languages**
+`JavaScript` `TypeScript` `HTML` `CSS` `Python`
+
+**Frameworks**
+`React` `Next.js` `Tailwind CSS`
+
+**Tools**
+`Git` `GitHub` `Figma` `VS Code` `Notion`
+
+**Interests**
+`Anime & Manga` `Indie Games` `Web Animations` `AR/Experiential Design`
+
+---
+
+## 🌌 What I Like
+
+> Building small weird ideas that become cool experiences.
+
+- Turning concepts into visuals
+- Playing with storytelling in UI
+- Experimenting with interactive websites
+
+---
+
+## 📫 Connect with me
+
+[LinkedIn](<your-link>) • [GitHub](https://github.com/<your-username>)
+
