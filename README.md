@@ -1,8 +1,3 @@
-# Hey, I'm Maxime 👋
-
-🎧 Music lover | 🎮 Indie Game Enjoyer | ✨ Creative Tech Explorer  
-🧠 Engineering student (final year) currently diving into:  
-**AR for live music • UX/UI design for games • Web experience & animations**
 
 ---
 
